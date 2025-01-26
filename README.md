@@ -18,4 +18,5 @@ colorscheme focus
 Use [colortemplate](https://github.com/lifepillar/vim-colortemplate) to change the colors.
 
 
-![image](https://github.com/user-attachments/assets/88846212-60ed-4c42-b5ca-14751bba63f9)
+![image](https://github.com/user-attachments/assets/30b9e6d9-dfa5-4f04-93a4-f4d9e147c10c)
+
